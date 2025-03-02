@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @roshisandwich
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: awesome
+he/him
 
 <!---
 roshisandwich/roshisandwich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
