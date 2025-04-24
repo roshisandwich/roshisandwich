@@ -1,4 +1,3 @@
-he/him
 studying game dev and DSA
 
 <!---
