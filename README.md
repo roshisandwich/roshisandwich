@@ -1,4 +1,4 @@
-he/him /n
+he/him
 studying game dev and DSA
 
 <!---
